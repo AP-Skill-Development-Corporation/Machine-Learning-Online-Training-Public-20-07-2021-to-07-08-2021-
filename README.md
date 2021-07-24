@@ -4,3 +4,8 @@
 
 
 ### Day-02 Recorded Session [Link](https://transcripts.gotomeeting.com/#/s/014e3cdb791374d55b61f68206c742ff110e59b5efca40b8f1ffe1f61e015f2d)
+
+### Day-03 Agenda 
+### Data Analysis using Pandas
+- Official Website [Link](https://pandas.pydata.org/pandas-docs/stable/getting_started/overview.html)
+#### Recoreded Session [Link](https://transcripts.gotomeeting.com/#/s/1846bd4ebe318ffeda7710f934d0c7788366f4c5c45d7a5e20dc0bb23a2814c3)
