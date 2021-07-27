@@ -14,3 +14,7 @@
 ### Day-4 Agenda
 ### Data analysis & Data Cleaning
 - **recorded Session** [Link](https://transcripts.gotomeeting.com/#/s/d3a52b933595f81a26755c3e626eeb9fc5aced817bca17209d87f9b6dc0dcf2e)
+
+### Day-5 Agenda
+### MAtplotlib 
+- **Recoded Session** [link](https://transcripts.gotomeeting.com/#/s/73432b58b32eb2e494f1b50266e90bc6901935387d0a9e18993e3d8e86994b30)
