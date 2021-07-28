@@ -22,3 +22,8 @@
 ### Day-6 Agenda
 ### Introduction to Machine Learning
 - **recorded Session** : [Link](https://transcripts.gotomeeting.com/#/s/d14f0563efd534992c6fd9107c12e45439aa95ffe8c945e9bf12b7f898fad20b)
+
+### Day-7 Agenda
+### Linear Regression 
+- **recorded Session**:
+- Official Website for Sklearn [Link](https://scikit-learn.org/stable/)
