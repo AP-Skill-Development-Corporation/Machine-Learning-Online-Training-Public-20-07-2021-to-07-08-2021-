@@ -25,5 +25,5 @@
 
 ### Day-7 Agenda
 ### Linear Regression 
-- **recorded Session**:
+- **recorded Session**: (https://transcripts.gotomeeting.com/#/s/4e22dad19e9f369596769482c5a9a6e376d2caef335c11e85b17010b1de54250)
 - Official Website for Sklearn [Link](https://scikit-learn.org/stable/)
