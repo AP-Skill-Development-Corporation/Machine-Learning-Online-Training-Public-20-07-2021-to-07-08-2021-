@@ -27,3 +27,7 @@
 ### Linear Regression 
 - **recorded Session**: [Link](https://transcripts.gotomeeting.com/#/s/4e22dad19e9f369596769482c5a9a6e376d2caef335c11e85b17010b1de54250)
 - Official Website for Sklearn [Link](https://scikit-learn.org/stable/)
+
+### Day-8 Agenda
+### Multiple Linear Regression
+- **recorded Session** : [Link](https://transcripts.gotomeeting.com/#/s/f4912036147726db96dab7a54029d39cbb1bd7045f1a1769b60e44763c4968d3)
