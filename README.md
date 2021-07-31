@@ -31,3 +31,7 @@
 ### Day-8 Agenda
 ### Multiple Linear Regression
 - **recorded Session** : [Link](https://transcripts.gotomeeting.com/#/s/f4912036147726db96dab7a54029d39cbb1bd7045f1a1769b60e44763c4968d3)
+
+### Day-9 Agenda
+### Polynomial Regression
+-**recorded session**: [Link](https://transcripts.gotomeeting.com/#/s/6caf2bfb5d113cdfa30e8576e526f116bb1baff76cb4e794d3c29a971b032896)
