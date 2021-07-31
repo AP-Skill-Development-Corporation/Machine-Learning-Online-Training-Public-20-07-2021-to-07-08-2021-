@@ -24,7 +24,7 @@
 - **recorded Session** : [Link](https://transcripts.gotomeeting.com/#/s/d14f0563efd534992c6fd9107c12e45439aa95ffe8c945e9bf12b7f898fad20b)
 
 ### Day-7 Agenda
-### Linear Regression 
+### Simple Linear Regression 
 - **recorded Session**: [Link](https://transcripts.gotomeeting.com/#/s/4e22dad19e9f369596769482c5a9a6e376d2caef335c11e85b17010b1de54250)
 - Official Website for Sklearn [Link](https://scikit-learn.org/stable/)
 
