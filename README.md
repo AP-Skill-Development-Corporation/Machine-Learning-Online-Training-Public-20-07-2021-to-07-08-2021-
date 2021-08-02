@@ -35,3 +35,8 @@
 ### Day-9 Agenda
 ### Polynomial Regression
 -**recorded session**: [Link](https://transcripts.gotomeeting.com/#/s/6caf2bfb5d113cdfa30e8576e526f116bb1baff76cb4e794d3c29a971b032896)
+
+
+### Day-10 Agenda
+### K-NN Classification Algorithm
+- **Recoded Session**: [Link](https://transcripts.gotomeeting.com/#/s/0222a13176f01a0515d17ea5ea5b40993af02550f8a0a45b87e7b6107e278cfe)
