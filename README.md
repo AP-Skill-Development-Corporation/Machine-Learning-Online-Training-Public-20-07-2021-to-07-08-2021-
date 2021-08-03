@@ -40,3 +40,7 @@
 ### Day-10 Agenda
 ### K-NN Classification Algorithm
 - **Recoded Session**: [Link](https://transcripts.gotomeeting.com/#/s/0222a13176f01a0515d17ea5ea5b40993af02550f8a0a45b87e7b6107e278cfe)
+
+### Day-11
+### Logistic Regression
+- **recorded session**: [Link](https://transcripts.gotomeeting.com/#/s/1ea258b53b95d424ae75aca46b4ea53c0d66d2e016d9999b9dcc9024491fe0ad)
