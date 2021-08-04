@@ -44,3 +44,10 @@
 ### Day-11
 ### Logistic Regression
 - **recorded session**: [Link](https://transcripts.gotomeeting.com/#/s/1ea258b53b95d424ae75aca46b4ea53c0d66d2e016d9999b9dcc9024491fe0ad)
+
+### Day-12
+### SVM
+- **recorded Session** : [Link](https://transcripts.gotomeeting.com/#/s/44e798029d61b6c90df201f6a2a5e5ab4157fe7f126e59d496b857badfd729da)
+
+### Day-13
+
