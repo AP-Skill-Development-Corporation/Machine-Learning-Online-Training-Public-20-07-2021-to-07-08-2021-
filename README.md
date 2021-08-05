@@ -50,4 +50,6 @@
 - **recorded Session** : [Link](https://transcripts.gotomeeting.com/#/s/44e798029d61b6c90df201f6a2a5e5ab4157fe7f126e59d496b857badfd729da)
 
 ### Day-13
+### Decision Tree
+- **Recorded Session** : [Link](https://transcripts.gotomeeting.com/#/s/311d629221828b35690dd5beab2fea807cd8a6b0a040bf1b8b2b75c6f80ee434)
 
