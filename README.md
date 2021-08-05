@@ -53,3 +53,9 @@
 ### Decision Tree
 - **Recorded Session** : [Link](https://transcripts.gotomeeting.com/#/s/311d629221828b35690dd5beab2fea807cd8a6b0a040bf1b8b2b75c6f80ee434)
 
+### Day- 14
+### Random Forest 
+### Voting Classifiers & Boosting Classifiers
+- Official Website [Link](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
+- **recoreded Session**: [Link]()
+- 
