@@ -57,5 +57,12 @@
 ### Random Forest 
 ### Voting Classifiers & Boosting Classifiers
 - Official Website [Link](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
-- **recoreded Session**: [Link]()
-- 
+- **recoreded Session**: [Link](https://transcripts.gotomeeting.com/#/s/ac5b94b8290a57f5d2391cfa841125bb3734dfc628f2654bbfc645f9585865a2)
+
+### Day-15
+### Unsupervised Learning Model - KMeans Clustering
+- **recorded session**: [Link](https://transcripts.gotomeeting.com/#/s/e92b6922618f0cdeb96fdba432576a80d0ed7641e64ab4281f26662c1f9f897f)
+
+### Day-16
+### Dimentionalty Reduction
+- **recorded session**: [Link]()
